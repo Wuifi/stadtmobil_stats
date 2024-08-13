@@ -5,6 +5,7 @@
 *.tiff
 *.tif
 *.pkl 
+*.geojson
 
 #exclude export folder
 export/
