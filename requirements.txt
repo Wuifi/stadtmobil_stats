@@ -9,6 +9,12 @@ openpyxl #==3.1.2
 #kaleido==0.2.1
 #libraries for ggplot
 #plotnine
+# for geodata stuff
+geopandas
+geopy
+shapely
+folium
+#tqdm
 #
 ###### Requirements with Version Specifiers ######
 #   See https://www.python.org/dev/peps/pep-0440/#version-specifiers
